@@ -1,1 +1,19 @@
-h1 {color:blue;}
+html {
+  font-family: Verdana;
+  background-color: #000;
+}
+
+body {
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-size:50px;
+  text-align: center;
+  font-weight: normal;
+}
+
+a {
+  color: aquamarine;
+}
