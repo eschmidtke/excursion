@@ -16,4 +16,24 @@ h1 {
 
 a {
   color: aquamarine;
+  display: block;
+  margin-bottom: 2em;
+}
+p {
+  color: gray;
+  font-size: 21pt;
+}
+
+footer p {
+  text-align: right;
+}
+
+img {
+  width:500px;
+  height:300px;
+  background-color: gray;
+}
+
+video {
+  background-color: gray;
 }
